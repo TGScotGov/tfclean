@@ -5,3 +5,5 @@
 Always rememeber to create a git ignore file otherwise you write large files back to github and it errors.
 
 Also remember to use an existing RG in the code, creating a new one wont work as Pluralsight doesnt allow this!
+
+Making a chnage to see if i can push and commit a change in Readme
