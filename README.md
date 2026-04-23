@@ -84,4 +84,10 @@ terraform destroy
 
 Check AZ admin to see if the resource has been built.
 
+To do -
+
+Not convinced you eed to have skip_provider_registration = true Think that was jsut a workaround to get the scitp working as i was accidentally trying to create a new RG and dont have the rights.
+
+
+
 
